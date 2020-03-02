@@ -1,11 +1,3 @@
-body,
-.sticky-footer-wrapper {
-  min-height: 100vh;
+body {
+  color: blue;
 }
-
-article {
-  background-color: aliceblue;
-  padding: 1em;
-  margin: 1em;
-}
-
